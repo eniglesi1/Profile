@@ -251,10 +251,6 @@
         {
           "name": "Shell",
           "type": "technology"
-        },
-        {
-          "name": "Unity3D",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
