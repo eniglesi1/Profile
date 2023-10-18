@@ -1,0 +1,293 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Enmanuel",
+      "surnames": "María Iglesias García del Castillo",
+      "title": "DevOps | Desarrollador de Software | Programación | 42 Learner",
+      "description": "Estudiante de 42 y desarrollador de software con conocimientos en diseño y creación de software y habilidades para solucionar problemas. Responsable con muchas ganas de trabajar y de aprender cosas nuevas. Me adapto con facilidad a nuevas situaciones y tengo una gran capacidad de trabajo en equipo.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/18/a28a5a44-ef5d-4a1f-a4b7-a0dcfc2fca88_linkedin-photo-16378.linkedin-photo-16378",
+        "alt": "23/10/18/a28a5a44-ef5d-4a1f-a4b7-a0dcfc2fca88_linkedin-photo-16378.linkedin-photo-16378"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Axians España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/18/1f2e0317-763e-4412-8095-2f4521eb0b4d_linkedin-photo-16378.linkedin-photo-16378",
+            "alt": "23/10/18/1f2e0317-763e-4412-8095-2f4521eb0b4d_linkedin-photo-16378.linkedin-photo-16378"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ingeniero DevOps",
+            "startDate": "2023-02-01",
+            "finishDate": "2023-09-30",
+            "challenges": [
+              {
+                "description": "Skills: PostgreSQL · Ahorro de costes · Sistemas técnicos · Automatización de pruebas · Infraestructura como código (IaC) · Microsoft Azure · Linux · DevOps · Bash · Debian · Ansible"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RedHat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shellscript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Desarrollo de software",
+        "startDate": "2021-08-01",
+        "institution": {
+          "name": "42Madrid",
+          "description": "42 Madrid es el campus de programación más innovador y gratuito que te abre las puertas al mercado laboral. Con una metodología revolucionaria y una duración media de tres años,",
+          "URL": "https://www.42madrid.com/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Shell",
+            "type": "technology"
+          },
+          {
+            "name": "Shellscript",
+            "type": "technology"
+          },
+          {
+            "name": "Unity3D",
+            "type": "technology"
+          },
+          {
+            "name": "Unix",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistencia a la frustración",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/enmanuel-iglesias-developer/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/eniglesi1",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "enmanuel25.03.2002@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "644097269",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Bash",
+          "type": "technology"
+        },
+        {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Shell",
+          "type": "technology"
+        },
+        {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Full-stack Developer",
+        "Software Architect"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Bash",
+        "type": "technology"
+      },
+      {
+        "name": "C",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Shell",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal me permitiría integrar dentro de mi día a día distintas acciones: trastear con soluciones nuevas, hacer pruebas de concepto, etc. y ponerlas en marcha. Un trabajo creativo y con resultados útiles hacia negocio. Me interesa tanto ser un gestor de personas como un contribuidor individual, mientras trabaje en un entorno transparente, donde no haya barreras entre el management y el resto del equipo.",
+    "goodPractices": "Me parece importante redactar código bien documentado, ya sea porque es descriptivo, como por haber explicado qué buscaba en relación con la funcionalidad que buscaba implementar. Aprecio trabajar con programación en parejas. Por supuesto, sigo leyendo y aprendiendo a través de libros y eventos centrados en buenas prácticas, todos hemos leído «Clean Code» (me encanta «Uncle Bob») y «Refactoring», pero hoy en día no puedes quedarte solo ahí. Además, como estudiante de 42 se me exige la redacción de código en base a la norminette, una serie de buenas prácticas generalizadas para toda el ecosistema 42 generando buenos desarrolladores y mejor software."
+  }
+}
